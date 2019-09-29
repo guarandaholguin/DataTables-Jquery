@@ -1,0 +1,110 @@
+body{
+	background:url(../imagenes/loco.jpg);
+	color:#210686;
+	background-attachment:fixed;
+
+}
+h1,h2,h3,h4,h5{
+	color:black;
+	background:#AF9205;
+}
+h1{
+	margin:0;
+	font-size:50px;
+	width:600px;
+	background:#AF9205;
+	
+}
+h2,h3{
+	margin:0;
+	font-size:30px;
+}
+h4{
+	margin:0;
+	font-size:30px;
+}
+
+h5{
+	margin:0;
+	font-size:30px;
+	color:green;
+}
+h6,h7,h8 {
+	margin:0;
+	font-size:50px;
+	width:600px;
+	background:#AF9205;
+}
+h7 {
+	margin:0;
+	font-size:30px;
+	width:600px;
+	background:#AF9205;
+}
+h8 {
+	margin:0;
+	font-size:30px;
+	width:600px;
+	background:#AF9205;
+}
+ p a{
+	 color:blue;
+ }
+ p {
+	 font-size:20px;
+ }
+ ol {
+	 font-size:20px;
+ }
+ p,ol,table {
+	 
+	 background: #13E0E4;
+	 border:3px solid #E707E1;
+ }
+ ul li a{
+	 color:#fff;
+	 
+ }
+ ul {
+	 font-size:20px;
+	  color:#fff;
+ }
+ .caja {
+	 width:800px;
+	 position:relative;
+	 top:;
+	 bottom:1650px;
+	 right:;
+	 left:1000px;
+ }
+ h3,h4,h5, {
+	width:800px;
+}
+ .ja {
+	 width:800px;
+ }
+  .je {
+	 width:800px;
+ }
+ p, ol{
+	text-align:justify;
+	font-size:30px;
+	line-height:30px;
+	text-shadow:5px 5px 5px #fff;
+ }
+ a {
+	 font-size:20px;
+	 text-decoration:none;
+ }
+ a:link{
+	 color:#D6E707;
+ }
+ table {
+	 border:1px solid #000;
+	 border-collapse:collapse;
+ }
+ table td {
+	 border:1px solid #000;
+	 padding:20px;
+ 
+ }
